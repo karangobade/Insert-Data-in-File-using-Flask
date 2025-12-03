@@ -17,3 +17,9 @@ User enters text in the form
 Clicks Submit
 Text is saved into text.txt
 Page reloads automatically
+
+project-folder/
+│── app.py
+│── templates/
+│     └── home.html
+│── README.md
